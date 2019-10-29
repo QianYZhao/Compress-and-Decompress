@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="dataStructureProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/dataStructureProject_jar</output-path>
+    <root id="archive" name="dataStructureProject.jar">
+      <element id="module-output" name="dataStructureProject" />
+    </root>
+  </artifact>
+</component>
